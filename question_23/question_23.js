@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let class_ = 6;
 let car = 'subaru';
 let isPassed = true;
@@ -20,3 +18,4 @@ console.log('Do you live in hyderabad?', city === 'hyderabad');
 console.log('Are you the fan of Babar Azam?', fan === 'yes');
 console.log('Is my phone Samsung? ', myphone == 'Samsung');
 console.log('Is today Monday? ', day == 'Monday');
+export {};

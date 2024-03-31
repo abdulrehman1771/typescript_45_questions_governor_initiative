@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let myobj = {
     stdid: 1,
     name: 'Abdul Rehman',
@@ -11,3 +9,4 @@ let myobj = {
     }
 };
 console.log(myobj.stdcard());
+export {};

@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let inviteList = [
     'Ammar', 'Ali', 'Daniyal', 'Ramish'
 ];
@@ -18,3 +16,4 @@ inviteList = inviteList.concat(['Zahid', 'Muzammil', 'Fahad']);
 for (let a = 0; a < inviteList.length; a++) {
     console.log(inviteList[a]);
 }
+export {};

@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let myarr = ['Karachi', 'Hyderabad', 'Kashmir', 'Mari'];
 function indexError(index) {
     if (index < 0 || index >= myarr.length) {
@@ -10,3 +8,4 @@ function indexError(index) {
     }
 }
 indexError(1);
+export {};

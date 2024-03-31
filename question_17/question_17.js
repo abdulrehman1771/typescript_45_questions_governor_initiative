@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let invitList = [
     'Ammar', 'Ali', 'Daniyal', 'Ramish'
 ];
@@ -29,3 +27,4 @@ for (let index = 0; index < invitList.length; index++) {
     console.log('Guests invited: ', invitList.splice(0));
 }
 console.log("Guest list: ", invitList);
+export {};

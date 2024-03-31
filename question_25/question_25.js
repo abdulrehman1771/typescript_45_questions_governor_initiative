@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let alien_color = 'green';
 let player1 = 'blue';
 let player2 = 'green';
@@ -13,3 +11,4 @@ if (player2 === alien_color) {
 }
 else {
 }
+export {};

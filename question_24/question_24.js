@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let car = 'subaru';
 let arr = [1, 5, 8, 5, 5, 2];
 console.log("Is car == 'suzuki'? I predict True. ", car == 'suzuki');
@@ -13,3 +11,4 @@ console.log('5<=2 ', 5 <= 2);
 console.log("abc && cde ", 'abc' && 'cde');
 console.log("45 || 20 ", 45 || 20);
 console.log("!42", !42);
+export {};

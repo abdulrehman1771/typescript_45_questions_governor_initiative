@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let alien_color1 = 'red';
 let alien_color2 = 'green';
 let alien_color3 = 'yellow';
@@ -12,3 +10,4 @@ if (alien_color2 === 'green') {
 if (alien_color3 === 'yellow') {
     console.log('player just earned 10 points for shooting alien!');
 }
+export {};

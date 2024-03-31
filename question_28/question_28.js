@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let age = 9;
 if (age < 2) {
 }
@@ -18,3 +16,4 @@ else if (age >= 20 && age < 65) {
 else if (age >= 65) {
     console.log('person is elder');
 }
+export {};

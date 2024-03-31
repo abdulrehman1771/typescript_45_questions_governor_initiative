@@ -1,6 +1,4 @@
-"use strict";
 // This block of code presents the basic arithmetic operators
-Object.defineProperty(exports, "__esModule", { value: true });
 console.log("\"This is concatenation.\" \tThe concatenation of the number 2 + 6 is " + 2 + 6 + ".");
 console.log("\"This is sum.\" \t\t\tThe sum of the number 2 + 6 is ", 2 + 6, ".");
 console.log("\"This is subtraction.\" \t\tThe difference of the number 12 - 4 is ", 12 - 4, ".");
@@ -9,3 +7,4 @@ console.log("\"This is division.\" \t\tThe division of the number 16 / 2 is ", 1
 // This block of code print the favourite number using formatted string.
 let fav_num1 = 1;
 console.log(`My favourite number is ${fav_num1}.`);
+export {};

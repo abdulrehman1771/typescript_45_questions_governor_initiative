@@ -1,5 +1,3 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
 let usernames = ['admin', 'eric', 'george', 'sam', 'fred'];
 usernames.forEach(element => {
     if (element === 'admin') {
@@ -9,3 +7,4 @@ usernames.forEach(element => {
         console.log(`Hello ${element}, thank you for logging in again`);
     }
 });
+export {};
