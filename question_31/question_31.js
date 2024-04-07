@@ -1,3 +1,4 @@
+// Non Empty List
 let usernames = ['admin', 'eric', 'george', 'sam', 'fred'];
 usernames.forEach(element => {
     if (element === 'admin') {
@@ -10,6 +11,7 @@ usernames.forEach(element => {
         console.log(`Hello ${element}, thank you for logging in again`);
     }
 });
+// Empty List
 let usernames1 = [];
 if (usernames1.length === 0) {
     console.log('We need to find some users!');
