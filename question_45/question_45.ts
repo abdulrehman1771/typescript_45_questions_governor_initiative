@@ -6,7 +6,6 @@ const cars = ({manufacturer, model, ...rest}:{manufacturer:string, model:string,
     }
 }
 
-
 cars({
     manufacturer:"Toyota",
     model:"Corolla",
