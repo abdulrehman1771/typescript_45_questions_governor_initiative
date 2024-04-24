@@ -8,7 +8,6 @@ const order_sandwich = (lst:string[], sandwich_name?:string):void => {
     
 }
 
-
 let order1 = ["Bread", "Cabbage", "Capsicum", "Carrot"]
 let order2 = ["Bread", "Cheese", "Pickle", "mayonnaise"]
 let order3 = ["Bread", "Unsalted Butter", "Pepperoni", "Black Olives", "Mozzarella Cheese"]
